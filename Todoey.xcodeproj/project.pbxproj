@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		5F4A96162063C72C008DF61E /* itemModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F4A96152063C72C008DF61E /* itemModel.swift */; };
+		5F4A961C2063EB21008DF61E /* dummyTodDoListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F4A961B2063EB21008DF61E /* dummyTodDoListViewController.swift */; };
 		5F8D510C206222450029DEB3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F8D510B206222450029DEB3 /* AppDelegate.swift */; };
 		5F8D510E206222450029DEB3 /* TodoListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F8D510D206222450029DEB3 /* TodoListViewController.swift */; };
 		5F8D5111206222450029DEB3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5F8D510F206222450029DEB3 /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 
 /* Begin PBXFileReference section */
 		5F4A96152063C72C008DF61E /* itemModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = itemModel.swift; sourceTree = "<group>"; };
+		5F4A961B2063EB21008DF61E /* dummyTodDoListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dummyTodDoListViewController.swift; sourceTree = "<group>"; };
 		5F8D5108206222450029DEB3 /* Todoey.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Todoey.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5F8D510B206222450029DEB3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5F8D510D206222450029DEB3 /* TodoListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoListViewController.swift; sourceTree = "<group>"; };
@@ -49,6 +51,7 @@
 			isa = PBXGroup;
 			children = (
 				5F8D510D206222450029DEB3 /* TodoListViewController.swift */,
+				5F4A961B2063EB21008DF61E /* dummyTodDoListViewController.swift */,
 			);
 			name = Controller;
 			sourceTree = "<group>";
@@ -166,6 +169,7 @@
 			files = (
 				5F4A96162063C72C008DF61E /* itemModel.swift in Sources */,
 				5F8D510E206222450029DEB3 /* TodoListViewController.swift in Sources */,
+				5F4A961C2063EB21008DF61E /* dummyTodDoListViewController.swift in Sources */,
 				5F8D510C206222450029DEB3 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
